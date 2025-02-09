@@ -7,7 +7,7 @@
 ## 学生校园论坛系统
 
 ### 系统功能，模块见下图，
-![输入图片说明](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11721720821447150.png)
+![输入图片说明](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11721720821447150.png)
 
 #### 主要分为管理员，用户，游客。满足基本的论坛系统，还提供了消息发送，关注等功能
 
@@ -20,9 +20,9 @@
 
 前台（根据登录的不同用户自动进入不同角色）：
 
-http://124.222.106.130:8081/xiaoyu/#/article/15
+http://111.231.74.123:8081/xiaoyu/#/article/15
 
-[点此跳转](http://124.222.106.130:8081/xiaoyu/#/article/15)
+[点此跳转](http://111.231.74.123:8081/xiaoyu/#/article/15)
 
 用户名密码：
 
